@@ -1,0 +1,39 @@
+
+          html {font-size: 22px;
+
+    }
+    body{ 
+        background-color: #333;
+        color: whitesmoke;
+        
+        background-attachment: fixed;
+      }
+  
+    h1{
+      font-size: 60px;
+      font-family: courier;
+
+    }
+    p{ 
+      font: 4px;
+      color: blueviolet;
+      border:5px #e40b0b;
+      padding: 4px;
+      background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    th,td{
+      border:1px solid pink;
+      border-collapse: collapse;
+      background-color: aquamarine;
+      border-radius: 10px;
+      border-color: #e40b0b;
+      text-decoration-color: black;
+       }
+       table{
+        width: 10%;
+       }
+       
+  
+     
